@@ -5,13 +5,13 @@ body{
     flex-direction: column;
     }
 .main{
-   background-image:url: (https://github.com/johnkapara/johnyex-website/blob/main/jeanpi.jpg);
+   background-color : beige
    background-repeat: no-repeat;
    background-size: cover;
 
 }    
  p{
-color:white;
+color:black;
 font-size:  21px;;
  margin-left: 25px;
  }
