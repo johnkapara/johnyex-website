@@ -3,10 +3,9 @@ body{
     
     display:flex;
     flex-direction: column;
-    position:;
     }
 .main{
-   background-image:url (https://github.com/johnkapara/johnyex-website/blob/main/jeanpi.jpg?raw=true);
+   background-image:url(jeanpi.jpg);
    background-repeat: no-repeat;
    background-size: cover;
 
