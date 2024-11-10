@@ -5,7 +5,7 @@ body{
     flex-direction: column;
     }
 .main{
-   background-image: url (" jeanpi.jpg");
+   background-image: url ("page-bg.gif.jpg");
    background-repeat: no-repeat;
    background-size: cover;
 
